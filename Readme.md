@@ -23,4 +23,4 @@ Catics Computer is a professional website showcasing repair, maintenance, and as
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/catics-computer-website.git
+   git clone https://github.com/Anukunj/Catics-Computer-and-Repairing-Website.git
